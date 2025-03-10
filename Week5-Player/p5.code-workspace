@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../Downloads/Week2-Objects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "p5"
+	}
+}
